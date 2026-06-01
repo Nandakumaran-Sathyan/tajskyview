@@ -1,0 +1,9 @@
+# Create a `replacements.txt` (not committed) with the exact secret strings to replace.
+# Format: literal==>REDACTED
+# Example (DO NOT commit the real secrets):
+# V1VCrn6q7V8PApzEBkhMOBvS7K3BmtAhyPdULQNnJMU==>REDACTED_SECRET_TOKEN
+# acqbsvncdfahbohe==>REDACTED_GMAIL_APP_PASSWORD
+# 61cc86e5f1d1c27dc110959c16ff7098010fbbd4==>REDACTED_PRIVATE_KEY_ID
+
+# Save the file as ../replacements.txt (outside the repo) and run:
+# git filter-repo --replace-text ../replacements.txt

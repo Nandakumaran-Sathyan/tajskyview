@@ -1,0 +1,24 @@
+# Robots.txt for Taj Skyview Residences
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api
+Disallow: /*.json$
+Disallow: /node_modules
+
+# Specific rules for popular crawlers
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://tajskyviewresidences.co.in/sitemap.xml
+
+# Allow all other bots
+User-agent: *
+Allow: /

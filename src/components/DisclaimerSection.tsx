@@ -20,7 +20,7 @@ function DisclaimerSection() {
             {showMore && (
               <div className="text-left1 text-center moretext">
                 <p className="btm-foot">
-                 Disclaimer: This website is the official landing page of an Authorized Builder of Taj Sky View, a prestigious residential project developed by AMPA HOME BUILD. We are legally authorized to market and facilitate the sale of units in this development. All project information, visuals, pricing, and plans presented on this page are intended solely for informational purposes and are subject to change at the sole discretion of the developer, AMPA HOME BUILD. We strive to ensure the accuracy of the content provided. However, for the latest updates and official documentation, we encourage prospective buyers to verify details directly with us or the developer.
+                 Disclaimer: This website is the official landing page of an Authorized channel partner Revah estates, a prestigious residential project developed by AMPA HOME BUILD. We are legally authorized to market and facilitate the sale of units in this development. All project information, visuals, pricing, and plans presented on this page are intended solely for informational purposes and are subject to change at the sole discretion of the developer, AMPA HOME BUILD. We strive to ensure the accuracy of the content provided. However, for the latest updates and official documentation, we encourage prospective buyers to verify details directly with us or the developer.
 
 For further information or to confirm our authorized status, please contact us via the details provided on this page.
 <br></br>

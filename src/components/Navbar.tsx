@@ -63,7 +63,7 @@ function Navbar() {
                   <li><a href="#floor-plans" className="nav-link-custom my-custom" onClick={handleNavClick}>Floor Plans</a></li>
                   <li><a href="#gallery" className="nav-link-custom my-custom" onClick={handleNavClick}>Gallery</a></li>
                   <li><a href="#location" className="nav-link-custom my-custom" onClick={handleNavClick}>Location</a></li>
-                  <li><a href="tel:+919952012346" className="head-call appbtn gradient">+91 9952012346</a></li>
+                  <li><a href="tel:+13653786652" className="head-call appbtn gradient">+1 (365) 378-6652</a></li>
                   {/* PT logo removed as requested */}
                 </ul>
               </nav>

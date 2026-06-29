@@ -5,8 +5,8 @@ interface MobileActionButtonsProps {
 }
 
 const MobileActionButtons: React.FC<MobileActionButtonsProps> = ({ onEnquireClick }) => {
-  const whatsappNumber = '+919952012346'; // Updated WhatsApp number
-  const phoneNumber = '+919952012346';
+  const whatsappNumber = '+13653786652'; // Updated WhatsApp number
+  const phoneNumber = '+13653786652';
 
   const handleWhatsAppClick = () => {
     window.open(`https://wa.me/${whatsappNumber.replace(/\+/g, '')}`, '_blank');

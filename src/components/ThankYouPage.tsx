@@ -160,7 +160,7 @@ function ThankYouPage() {
                 <svg viewBox="0 0 24 24" style={{ width: '18px', height: '18px', stroke: '#b4975a', fill: 'none', strokeWidth: 2, flexShrink: 0, marginTop: '3px' }}>
                   <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
                 </svg>
-                <a href="tel:+919952012346" style={{ color: '#c0c0c0', textDecoration: 'none', fontSize: '0.95em' }}>+91 9952012346</a>
+                <a href="tel:+13653786652" style={{ color: '#c0c0c0', textDecoration: 'none', fontSize: '0.95em' }}>+1 (365) 378-6652</a>
               </div>
               <div style={{ display: 'flex', alignItems: 'flex-start', gap: '10px' }}>
                 <svg viewBox="0 0 24 24" style={{ width: '18px', height: '18px', stroke: '#b4975a', fill: 'none', strokeWidth: 2, flexShrink: 0, marginTop: '3px' }}>

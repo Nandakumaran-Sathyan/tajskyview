@@ -1,8 +1,8 @@
 import React from 'react';
 
 const DesktopActionButtons: React.FC = () => {
-  const whatsappNumber = '+919952012346'; // Updated WhatsApp number
-  const phoneNumber = '+919952012346';
+  const whatsappNumber = '+13653786652'; // Updated WhatsApp number
+  const phoneNumber = '+13653786652';
 
   const handleWhatsAppClick = () => {
     window.open(`https://wa.me/${whatsappNumber.replace(/\+/g, '')}`, '_blank');
